@@ -1,0 +1,3 @@
+27.09.2018 -- Initial release.
+10.10.2018 -- Added Stanford CoreNLP, python wrappers and tk explicitly
+
